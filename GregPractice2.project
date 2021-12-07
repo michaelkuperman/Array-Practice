@@ -93,6 +93,7 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
+    <File Name=".gitIgnore"/>
     <File Name="main.cpp"/>
   </VirtualDirectory>
   <Dependencies Name="Debug"/>
